@@ -54,7 +54,7 @@ commandPrefix: "!"
 # above 0 for waiting
 deleteMessages: 10
 
-#this will define if the bot will update your dicord role if you join the server. (audit log will be spammed, but you can disable the bot message)
+#this will define if the bot will update your discord role if you join the server. (audit log will be spammed, but you can disable the bot message)
 autoUpdateOnJoin: true
 
 #set this to true if a player should always get a reward when he verifies himself.
